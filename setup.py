@@ -7,7 +7,7 @@ requirements = []
 
 setup(
     name="testlibcreation",
-    version="0.0.1",
+    version="0.0.2",
     author="Sergey Zamyatin",
     author_email="sergey.zamyatin.01@list.ru",
     description="A package to convert your Jupyter Notebook",
